@@ -13,7 +13,6 @@ public class Main {
                 // sari direct la urmatorul i
                 continue;
             }
-
             System.out.println(i);
 
             System.out.println("Test");
